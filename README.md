@@ -2,6 +2,9 @@
 
 **UI Theme for VS Code, inspired by Youtube's Darkmode.**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/arakilian0/mood-ui-vscode/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-pink.svg?style=flat)](https://github.com/arakilian0/mood-ui-vscode)
+
 ![alt text](https://raw.githubusercontent.com/arakilian0/images/master/mood-ui-vscode.png "Mood UI")
 
 ## Install 
