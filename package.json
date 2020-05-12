@@ -18,5 +18,13 @@
                 "path": "./themes/Mood UI-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/arakilian0/mood-ui-vscode.git"
+    },
+    "homepage": "https://github.com/arakilian0/mood-ui-vscode#readme",
+    "bugs": {
+        "url": "https://github.com/arakilian0/mood-ui-vscode/issues"
     }
 }
