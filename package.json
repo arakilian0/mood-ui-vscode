@@ -1,0 +1,22 @@
+{
+    "name": "mood-ui",
+    "publisher": "arakilian0",
+    "displayName": "Mood UI",
+    "description": "UI Theme for VS Code, inspired by Youtube's Darkmode",
+    "version": "0.2.0",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mood UI",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mood UI-color-theme.json"
+            }
+        ]
+    }
+}
