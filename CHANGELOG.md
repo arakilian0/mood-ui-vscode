@@ -1,9 +1,8 @@
-# Change Log
+# Changelog
 
-All notable changes to the "mood-ui" extension will be documented in this file.
+## 0.2.0
+- Add git related info in `package.json`
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## 0.1.0
+- Generate extension boilerplate using `yo` & `generator-code`
+- Used `Monokai Theme` for quick start
