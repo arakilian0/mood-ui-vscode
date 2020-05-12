@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.5.0
+- Minor updates in `README.md`
+
 ## 0.4.0
 - Update `colors` to resemble Youtube's dark mode interface
 - Removed `Monokai.tmTheme`
