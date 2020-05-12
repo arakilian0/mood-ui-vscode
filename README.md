@@ -6,7 +6,7 @@
 [DOWNLOAD](https://marketplace.visualstudio.com/items?itemName=arakilian0.mood-ui)
 
 ## Note
-The vscode version currently uses [Palenight Theme](https://github.com/whizkydee/vscode-material-palenight-theme) 
+This theme currently uses [Palenight Theme](https://github.com/whizkydee/vscode-material-palenight-theme) 
 as the `tokenColors`. *(work in progress)*
 
 ## License
