@@ -2,10 +2,8 @@
 
 **UI Theme for VS Code, inspired by Youtube's Darkmode.**
 
-## Install
 
-- [VS Code](https://marketplace.visualstudio.com/items?itemName=arakilian0.mood-ui)
-- [Atom](https://atom.io/themes/mood-ui)
+[DOWNLOAD](https://marketplace.visualstudio.com/items?itemName=arakilian0.mood-ui)
 
 ## Note
 The vscode version currently uses [Palenight Theme](https://github.com/whizkydee/vscode-material-palenight-theme) 
