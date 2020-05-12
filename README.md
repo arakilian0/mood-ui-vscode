@@ -4,8 +4,8 @@
 
 ## Install
 
-- [VS Code](vscode:extension/arakilian0.mood-ui)
-- [Atom](atom://settings-view/show-package?package=mood-ui)
+- [VS Code](https://marketplace.visualstudio.com/items?itemName=arakilian0.mood-ui)
+- [Atom](https://atom.io/themes/mood-ui)
 
 ## Note
 The vscode version currently uses [Palenight Theme](https://github.com/whizkydee/vscode-material-palenight-theme) 
