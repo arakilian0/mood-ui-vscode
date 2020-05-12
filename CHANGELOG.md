@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.6.0
+- Added screenshot of UI
+
 ## 0.5.0
 - Minor updates in `README.md`
 
