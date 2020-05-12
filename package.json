@@ -3,7 +3,7 @@
     "publisher": "arakilian0",
     "displayName": "Mood UI",
     "description": "UI Theme for VS Code, inspired by Youtube's Darkmode.",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "engines": {
         "vscode": "^1.45.0"
     },
